@@ -5,6 +5,8 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}" />
     {% feed_meta %} {% seo %}
+    <!-- Include the Netlify Identity widget -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     {% include navigation.html %} {{ content }}
