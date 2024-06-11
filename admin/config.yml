@@ -1,10 +1,12 @@
 # config.yml
 
 backend:
-  name: github # Use 'github' as the backend if you're directly connecting to GitHub
-  repo: EliseAur/jekyll-decap-test # Replace with your GitHub username and repository name
-  branch: main # The branch you want to update, usually 'main'
-  auth_scope: repo, workflow
+  name: git-gateway
+  auth_scope: "user:email"
+  # name: github # Use 'github' as the backend if you're directly connecting to GitHub
+  # repo: EliseAur/jekyll-decap-test # Replace with your GitHub username and repository name
+  # branch: main # The branch you want to update, usually 'main'
+  # auth_scope: repo, workflow
 media_folder: "assets/images" # Folder where uploaded media files will be stored
 public_folder: "/assets/images" # Public URL of the media folder
 collections:
