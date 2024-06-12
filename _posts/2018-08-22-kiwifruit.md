@@ -1,6 +1,7 @@
 ---
 layout: post
 author: ted
+title: "Kiwifruit"
 ---
 
 Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the
