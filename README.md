@@ -8,6 +8,21 @@ Welcome to my Jekyll and Decap CMS site repository! This project uses Jekyll, a 
 
 - **Link:** Link-to-github-pages
 
+## Table of Contents
+
+- [Project Overview](##project-overview)
+- [Prerequisites](##prerequisites)
+- [Installation](##installation)
+- [Building the site](##building-the-site)
+- [Using Decap CMS](##using-decap-cms)
+- [Deployment](##deployment)
+  - [GitHub Pages](###github-pages)
+  - [Netlify](###netlify)
+- [Configuration](##configuration)
+- [Contribution Guidelines](##contribution-guidelines)
+- [License](##license)
+- [Contact](##contact)
+
 ## Project Overview:
 
 This site is built using Jekyll and styled with Tailwind CSS. It includes various plugins for enhanced functionality, such as jekyll-feed, jekyll-sitemap, and jekyll-seo-tag. The site also integrates Decap CMS for managing content.
