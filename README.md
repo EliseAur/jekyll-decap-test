@@ -10,18 +10,18 @@ Welcome to my Jekyll and Decap CMS site repository! This project uses Jekyll, a 
 
 ## Table of Contents
 
-- [Project Overview](##project-overview)
-- [Prerequisites](##prerequisites)
-- [Installation](##installation)
-- [Building the site](##building-the-site)
-- [Using Decap CMS](##using-decap-cms)
-- [Deployment](##deployment)
-  - [GitHub Pages](###github-pages)
-  - [Netlify](###netlify)
-- [Configuration](##configuration)
-- [Contribution Guidelines](##contribution-guidelines)
-- [License](##license)
-- [Contact](##contact)
+- [Project Overview](#project-overview)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Building the site](#building-the-site)
+- [Using Decap CMS](#using-decap-cms)
+- [Deployment](#deployment)
+  - [GitHub Pages](#github-pages)
+  - [Netlify](#netlify)
+- [Configuration](#configuration)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
+- [Contact](#contact)
 
 ## Project Overview:
 
